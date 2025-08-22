@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Outputs
+output/
+logs/
+*.log
+
+# Streamlit
+.streamlit/
+
+# Coverage & test
+.coverage
+htmlcov/
+.pytest_cache/
